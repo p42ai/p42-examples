@@ -1,2 +1,5 @@
+[debug]
+performanceLoggingEnabled = true
+
 [refactoring.optional-chaining]
-enabled = false
+enabled = true
